@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- -->
  <img src="https://github.com/Pratham-19/Pratham-19/blob/main/header.gif">
 <h1 align="center">Hi, I am Siddhi Pandya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <p align="center">
@@ -61,15 +60,17 @@ Here are some ideas to get you started:
  </p>
 
 <br>
- <h1  align="center">Most Used Languages 💻</h1> 
-
-
-
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidp6853&layout=compact&theme=midnight-purple" alt="chandrabosep" /></p>
-
-
-<br>
-
+<!--  <h1  align="center">Most Used Languages </h1>  -->
+  <h2 align="center"><b>Siddhi's Github stats</b></h2>
+<div align="center">
+<span align="center"> <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sidp6853&theme=dark"></span>
+ </div>
+ <br>
+ <div align = "center">
+  <h2><p align="center"><b> Most Used Languages 💻 </b> </p></h2>
+  <span align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidp6853&layout=compact&theme=midnight-purple" alt="Not rendered" /></span>
+ </div>
+ <br>
+ <div align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sidp6853&theme=react-dark"></div>
 
  
