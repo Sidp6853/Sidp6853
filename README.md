@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <h2><p align="center"> A passionate MERN Stack developer from India ⚡</p></h2>
-<br>
+
 
 <h1 align="center">< ToolBox 🛠></h1>
 <p align="center"> 
