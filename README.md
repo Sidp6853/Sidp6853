@@ -48,10 +48,7 @@ Here are some ideas to get you started:
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
     
-    
-   <br>
-    
-
+ <br>
 <h1 align="center">Let's Get Connected</h1>
 <br>
 <p align="center">
