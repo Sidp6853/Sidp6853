@@ -55,14 +55,10 @@ Here are some ideas to get you started:
 <a  href="https://www.linkedin.com/in/siddhi-pandya-9b0200213" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:siddhip568@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </p>
-
-<br>
-<!--  <h1  align="center">Most Used Languages </h1>  -->
   <h2 align="center"><b>Siddhi's Github stats</b></h2>
 <div align="center">
 <span align="center"> <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sidp6853&theme=dark"></span>
  </div>
- <br>
  <div align = "center">
   <h2><p align="center"><b> Most Used Languages 💻 </b> </p></h2>
   <span align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidp6853&layout=compact&theme=midnight-purple" alt="Not rendered" /></span>
