@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=WEB+Developer;Android+Developer;Open-Source+Enthusiast;Nice+To+Meet+You+...&center=true">
 </p>
 
-<p align="center"> A passionate MERN Stack developer from India ⚡</p>
+<h2><p align="center"> A passionate MERN Stack developer from India ⚡</p></h2>
 <br>
 
 <h1 align="center">< ToolBox 🛠></h1>
