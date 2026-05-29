@@ -3,7 +3,6 @@
 **AI Engineer** | Building AI systems that solve real problems 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Sidp6853&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Sidp6853?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 🔭 Currently learning: LLM internals,production systems  
@@ -34,14 +33,6 @@ FastAPI • Docker • PostgreSQL • Redis • Qdrant
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidp6853&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-
-## 📅 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-> Use GitHub Actions with `readme-activity-graph` or `github-readme-activity` to auto-update recent commits/activity.
 
 ---
 
