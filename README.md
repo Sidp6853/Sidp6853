@@ -2,7 +2,7 @@
 
 **AI Engineer** | Building AI systems that solve real problems 
 <p align="left">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Sidp6853)
+  <img src="https://komarev.com/ghpvc/?username=Sidp6853&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Sidp6853?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
